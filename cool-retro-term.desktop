@@ -1,11 +1,23 @@
 [Desktop Entry]
-Comment=Use the command line the old way
-Exec=cool-retro-term
-GenericName=Terminal emulator
-Icon=cool-retro-term
-Name=Cool Retro Term
-Categories=System;TerminalEmulator;
+Comment[zh_CN]=cool-retro-term
+Comment=cool-retro-term
+Encoding=UTF-8
+Exec=/opt/cool-retro-term/cool-retro-term
+#..path为文件夹所在路径
+GenericName[zh_CN]=
+GenericName=
+Icon=/opt/cool-retro-term/app/icons/crt.icns
+#指定QQ图标文件
+MimeType=
+Name[zh_CN]=cool-retro-term
+Name=cool-retro-term
+Path=
 StartupNotify=true
 Terminal=false
+TerminalOptions=
 Type=Application
-Keywords=shell;prompt;command;commandline;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Network;
